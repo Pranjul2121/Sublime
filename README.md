@@ -1,7 +1,5 @@
-# 👨‍💻 Pranjul Tiwari
+## ⚡ Terminal Portfolio Preview
 
-🚀 Full Stack + AI/ML Developer  
+![Preview](./preview.png)
 
-## 📄 My Portfolio
-
-[📥 View My Terminal Portfolio](./PRANJUL_TERMINAL_SUBLIME.pdf)
+[👉 View Full PDF](./PRANJUL_TERMINAL_SUBLIME.pdf)
